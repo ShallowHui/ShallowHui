@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GuangDong, China
-- 🌱 I’m currently learning **Java**, **Python**, **C**, **ELK**
 - 📫 How to reach me: [**📧 1031762684@qq.com**](mailto:1031762684@qq.com)
 - ⚡ Here is my blog: [**💬 zunhuier's blog**](https://zunhuier.top)
 
